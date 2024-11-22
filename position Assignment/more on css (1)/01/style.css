@@ -1,0 +1,12 @@
+nav{
+    background-color: #0000ffa3;
+    padding: 15px;
+   
+}
+a{
+    color: #ffffff;
+    padding: 15px;
+}
+a:hover{
+    color: #d01d1ddc;
+}

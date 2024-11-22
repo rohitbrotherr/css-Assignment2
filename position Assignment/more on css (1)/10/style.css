@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.card{
+    background-color: #00ffbfb1;
+    border-radius: 25px;
+    width: 320px;
+    opacity: 0.5;
+ 
+   
+}
+img{
+    padding: 5px;
+    margin: 5px;
+}
+.card:hover{
+    opacity: 1;
+}
+p{
+  margin-top: 2px;
+  padding-left: 15px;
+}
